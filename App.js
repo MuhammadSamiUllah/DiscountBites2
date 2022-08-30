@@ -3,6 +3,7 @@ import { View, Text, ActivityIndicator } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import Routes from "./src/screens/Routes";
 import LottieView from 'lottie-react-native';
+// i am done
 
 const App =  () => {
   const [isLoading, SetIsLoading] = React.useState(true);
